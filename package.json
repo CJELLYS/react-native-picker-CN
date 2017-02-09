@@ -1,0 +1,88 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-picker",
+        "scope": null,
+        "escapedName": "react-native-picker",
+        "name": "react-native-picker",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/caoguodong/Desktop/Both/rcshop-onreact"
+    ]
+  ],
+  "_cnpm_publish_time": 1484641265172,
+  "_from": "react-native-picker@latest",
+  "_id": "react-native-picker@4.0.18",
+  "_inCache": true,
+  "_location": "/react-native-picker",
+  "_nodeVersion": "6.1.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-picker-4.0.18.tgz_1484641264948_0.8254109232220799"
+  },
+  "_npmUser": {
+    "name": "zooble",
+    "email": "wenliang.web@gmail.com"
+  },
+  "_npmVersion": "3.8.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-picker",
+    "scope": null,
+    "escapedName": "react-native-picker",
+    "name": "react-native-picker",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/react-native-picker/download/react-native-picker-4.0.18.tgz",
+  "_shasum": "cd75244bb7819e29c2910171120e62be8bf690fb",
+  "_shrinkwrap": null,
+  "_spec": "react-native-picker",
+  "_where": "/Users/caoguodong/Desktop/Both/rcshop-onreact",
+  "author": {
+    "name": "zooble"
+  },
+  "bugs": {
+    "url": "https://github.com/beefe/react-native-picker/issues"
+  },
+  "dependencies": {},
+  "description": "[![npm version](https://img.shields.io/npm/v/react-native-picker.svg?style=flat-square)](https://www.npmjs.com/package/react-native-picker) <a href=\"https://david-dm.org/beefe/react-native-picker\"><img src=\"https://david-dm.org/beefe/react-native-picker.s",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "cd75244bb7819e29c2910171120e62be8bf690fb",
+    "size": 25634,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/react-native-picker/download/react-native-picker-4.0.18.tgz"
+  },
+  "gitHead": "85c1c118b095b2f24536c9c45b3120476dbfe821",
+  "homepage": "https://github.com/beefe/react-native-picker#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "zooble",
+      "email": "wenliang.web@gmail.com"
+    }
+  ],
+  "name": "react-native-picker",
+  "optionalDependencies": {},
+  "publish_time": 1484641265172,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/beefe/react-native-picker.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "4.0.18"
+}
